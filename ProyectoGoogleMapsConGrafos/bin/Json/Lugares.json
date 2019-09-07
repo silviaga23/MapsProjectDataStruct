@@ -1,0 +1,149 @@
+[
+  {
+    "Nombre": "Idaho",
+    "Longitud": -114.609375,
+    "Latitud": 44.0244215196593
+  },
+  {
+    "Nombre": "Montana",
+    "Longitud": -109.248046875,
+    "Latitud": 47.4578085307503
+  },
+  {
+    "Nombre": "Oregón",
+    "Longitud": -123.046875,
+    "Latitud": 43.7075935040529
+  },
+  {
+    "Nombre": "Dakota del Norte",
+    "Longitud": -97.998046875,
+    "Latitud": 47.9310663475098
+  },
+  {
+    "Nombre": "Washington D.C",
+    "Longitud": -120.9375,
+    "Latitud": 46.9802523552188
+  },
+  
+  
+  {
+    "Nombre": "Wisconsin",
+    "Longitud": -89.208984375,
+    "Latitud": 45.213003555994
+  },
+  {
+    "Nombre": "Dakota del Sur",
+    "Longitud": -102.3046875,
+    "Latitud": 44.9025779962889
+  },
+  {
+    "Nombre": "Louisiana",
+    "Longitud": -91.93359375,
+    "Latitud": 30.6379120283414
+  },
+  {
+    "Nombre": "Maine",
+    "Longitud": -68.8623046875,
+    "Latitud": 45.2748864370489
+  },
+  {
+    "Nombre": "Virginia",
+    "Longitud": -78.837890625,
+    "Latitud": 37.6490340215786
+  },
+  {
+    "Nombre": "North Carolina",
+    "Longitud": -78.9697265625,
+    "Latitud": 36.0668621325789
+  },
+  {
+    "Nombre": "Florida",
+    "Longitud": -81.1669921875,
+    "Latitud": 27.8390760947778
+  },
+  {
+    "Nombre": "West Virginia",
+    "Longitud": -80.859375,
+    "Latitud": 38.8910328264885
+  },
+  {
+    "Nombre": "Missisipi",
+    "Longitud": -89.82421875,
+    "Latitud": 33.9068955512887
+  },
+  {
+    "Nombre": "Texas",
+    "Longitud": -99.404296875,
+    "Latitud": 31.7281671460239
+  },
+  {
+    "Nombre": "New Mexico",
+    "Longitud": -106.259765625,
+    "Latitud": 34.4159733844819
+  },
+  {
+    "Nombre": "Nebraska",
+    "Longitud": -98.7890625,
+    "Latitud": 41.7057285152375
+  },
+  {
+    "Nombre": "Utah",
+    "Longitud": -111.8408203125,
+    "Latitud": 39.3342974298072
+  },
+  {
+    "Nombre": "Wyoming",
+    "Longitud": -108.5009765625,
+    "Latitud": 43.3571382221105
+  },
+  {
+    "Nombre": "Colorado",
+    "Longitud": -106.7431640625,
+    "Latitud": 38.9252290471405
+  },
+  {
+    "Nombre": "New York",
+    "Longitud": -76.025390625,
+    "Latitud": 43.165122631583
+  },
+  {
+    "Nombre": "Pennsylvania",
+    "Longitud": -78.2666015625,
+    "Latitud": 41.2117215105479
+  },
+  {
+    "Nombre": "Missouri",
+    "Longitud": -92.5927734375,
+    "Latitud": 38.5481654230466
+  },
+  {
+    "Nombre": "Arkansas",
+    "Longitud": -92.0654296875,
+    "Latitud": 35.0659731379842
+  },
+  {
+    "Nombre": "Iowa",
+    "Longitud": -93.33984375,
+    "Latitud": 42.391008609205
+  },
+  {
+    "Nombre": "Minessota",
+    "Longitud": -92.373046875,
+    "Latitud": 46.9802523552188
+  },
+  {
+    "Nombre": "Nevada",
+    "Longitud": -119.619140625,
+    "Latitud": 39.9097362345372
+  },
+  {
+    "Nombre": "Kansas",
+    "Longitud": -98.3935546875,
+    "Latitud": 38.7883453550856
+  },
+  {
+    "Nombre": "Vermon",
+    "Longitud": -71.54296875,
+    "Latitud": 44.1506811597809
+  }
+]

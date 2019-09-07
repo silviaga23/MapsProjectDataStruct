@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "ProyectoGoogleMapsConGrafos\UI.csproj", "{28D5E230-1BA7-4026-9350-FE662C560DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd", "Core\BackEnd.csproj", "{809E372B-C2C5-4C8D-8C5B-D5B6E27082D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D5E230-1BA7-4026-9350-FE662C560DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D5E230-1BA7-4026-9350-FE662C560DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D5E230-1BA7-4026-9350-FE662C560DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D5E230-1BA7-4026-9350-FE662C560DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809E372B-C2C5-4C8D-8C5B-D5B6E27082D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809E372B-C2C5-4C8D-8C5B-D5B6E27082D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809E372B-C2C5-4C8D-8C5B-D5B6E27082D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809E372B-C2C5-4C8D-8C5B-D5B6E27082D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4BD0BB0-8004-4346-9867-0BF14AD5E570}
+	EndGlobalSection
+EndGlobal
